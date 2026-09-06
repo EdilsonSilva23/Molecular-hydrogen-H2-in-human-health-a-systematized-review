@@ -36,7 +36,7 @@
 
 **EN —** This systematized review synthesizes 82 studies (2007–2026, focus 2021–2026) on molecular hydrogen (H2) — hydrogen-rich water (HRW 0.5–5.9 ppm), inhalation (1–66% H2) and hydrogen-rich saline (HRS) — for safety, oxidative stress/inflammation and clinical outcomes. Evidence hierarchized by **GRADE** certainty, with **RoB2** (34 RCTs), **ROBINS-I** and **AMSTAR-2**.
 
-**Status:** `v1.0` — Manuscrito IMRaD pronto para revisão por pares. Busca final `20/05/2026`. Sem registro PROSPERO (limitação declarada).
+**Status:** `v1.1` — Manuscrito IMRaD + **Anexo Extra** sobre lacuna translacional. Busca final `20/05/2026`. Sem registro PROSPERO (limitação declarada).
 
 | Item | Detalhe |
 |------|---------|
@@ -103,7 +103,10 @@ Pesquisa Hidrogenio Molecular/
 ├── 04_Perfil_GRADE_H2_ApE_Quadro2.xlsx                # Apêndice E — GRADE 12 desfechos + MCID/OIS
 │
 ├── Figura3_ForestPlot_Vetorial.png                  # Figura 3 vetorial (340 dpi, 254 KB)
-└── Figura3_ForestPlot_Vetorial.pdf                  # Figura 3 vetorial PDF (59 KB)
+├── Figura3_ForestPlot_Vetorial.pdf                  # Figura 3 vetorial PDF (59 KB)
+│
+├── Anexo_Extra_O_que_falta_Por_que_estudos_positivos_nao_viram_recomendacao.docx      # Anexo Extra PT (42 KB) — discussão aprofundada da lacuna translacional
+└── Annex_Extra_What_is_missing_Why_small_positive_studies_have_not_become_recommendations.docx  # Annex Extra EN (41 KB) — mirrored
 ```
 
 > **Arquivos suplementares** = material para verificação por pares, não contado no limite de palavras.
@@ -118,6 +121,24 @@ Todos os suplementos estão neste repositório **e** depositados com DOI:
 | `02_Planilha_Extracao...xlsx` | Template extração padronizada — 82 linhas, 19 colunas, filtros, validação | **C** |
 | `03_Matriz_RoB2...xlsx` | RoB2 completo 34 ECRs (D1–D5 + Global) + AMSTAR-2/ROBINS-I | **S1 / D** |
 | `04_Perfil_GRADE...xlsx` | GRADE por desfecho (12 linhas) + limiares MCID/OIS | **E / S2** |
+| `Anexo_Extra_O_que_falta...docx` (PT) / `Annex_Extra_...docx` (EN) | **Anexo Extra:** Por que tantos estudos positivos pequenos não viram recomendação — 7 barreiras, MCID, checklist translacional, roadmap 5,5 anos | **Anexo Extra / Annex Extra** |
+
+## Anexo Extra / Annex Extra — O que falta
+
+**Novo em v1.1** — `Anexo_Extra_O_que_falta...docx` (PT 42 KB) e `Annex_Extra_...docx` (EN 41 KB) — discussão aprofundada sobre a maior questão da medicina do hidrogênio:
+
+> **“Por que tantos estudos positivos pequenos não se traduziram ainda em recomendações clínicas?”**
+
+**Conteúdo (7 seções):**
+1. O paradoxo: segurança em 34 ECRs, mas único fase 3 (Hydro-COVID n=675) negativo
+2. **7 barreiras** — tabela: amostra pequena/winner's curse (mediana n=28) | dose não padronizada (0,5–5,9 ppm vs 1–66%) | surrogate (LDL −3,2 mg/dL < MCID 10) | viés publicação/tempo curto | cegamento frágil (RoB2) | população homogênea (>90% Ásia/E. Europe) | incentivo invertido (não patenteável)
+3. Problema do efeito pequeno e surrogate — MCID/OIS, GRADE Moderada→Muito baixa
+4. Por que H2 sofre mais que outros nutracêuticos — vale da morte translacional
+5. **Checklist translacional** — 5 condições para recomendar (só segurança ✅, demais ❌)
+6. **Roadmap 0–5,5 anos** — PK (H2 exalado) → dose-finding 4 braços → 2 fase 3 n=250 (NAFLD biópsia + performance)
+7. Conclusão: `H2 hoje é pergunta de pesquisa, não resposta terapêutica`
+
+Incluído no Zenodo v1.1 como material suplementar adicional.
 
 ## Como Citar / How to Cite
 
@@ -130,18 +151,18 @@ Todos os suplementos estão neste repositório **e** depositados com DOI:
 ```bibtex
 @dataset{silva2026_h2,
   author       = {Silva, Edilson S.},
-  title        = {Hidrogênio molecular (H2) na saúde humana: revisão sistematizada (2007–2026) — Material suplementar},
+  title        = {Hidrogênio molecular (H2) na saúde humana: revisão sistematizada (2007–2026) — Material suplementar (incl. Anexo Extra)},
   year         = {2026},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.22545584},
   url          = {https://doi.org/10.5281/zenodo.22545584},
-  version      = {v1.0}
+  version      = {v1.1}
 }
 ```
 
 ## Disponibilidade de Dados / Data Availability
 
-> **Estratégias de busca, planilha de extração, matrizes RoB2 (34 ECRs) e GRADE, e exports das bases (`.nbib/.ris/.csv`) foram depositados em repositório público: Zenodo DOI [10.5281/zenodo.22545584](https://doi.org/10.5281/zenodo.22545584). Material suplementar completo (Tabelas S1–S4, Figuras S1–S3) consta nos Apêndices e no repositório.**
+> **Estratégias de busca, planilha de extração, matrizes RoB2 (34 ECRs) e GRADE, exports das bases (`.nbib/.ris/.csv`) e Anexo Extra (PT/EN) foram depositados em repositório público: Zenodo DOI [10.5281/zenodo.22545584](https://doi.org/10.5281/zenodo.22545584) (v1.1). Material suplementar completo (Tabelas S1–S4, Figuras S1–S3) consta nos Apêndices e no repositório.**
 
 - **Zenodo (ativo):** https://doi.org/10.5281/zenodo.22545584
 - **OSF (espelho):** `https://osf.io/XXXXX` *(a ativar)*
@@ -182,6 +203,13 @@ Ver `LICENSE` (se adicionar) ou https://creativecommons.org/licenses/by/4.0/
 - Zenodo: https://doi.org/10.5281/zenodo.22545584
 
 **Como contribuir:** abra uma *Issue* para correções/sugestões ou *Pull Request* para melhorias na extração/strings.
+
+---
+
+**Fim do README — End of README**
+
+*Manuscrito formatado para submissão. Todos os DOIs verificados em 30/05/2026 via PubMed/PMC/Crossref. Para citar este repositório, use o DOI Zenodo acima.*
+
 
 ---
 
