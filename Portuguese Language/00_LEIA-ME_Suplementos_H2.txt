@@ -1,0 +1,34 @@
+SUPLEMENTOS — Hidrogênio molecular (H2) na saúde humana: revisão sistematizada (2007-2026, foco 2021-2026)
+Autor: Edilson S. Silva — Pesquisador Independente, Belém, Pará, Brasil — ORCID 0009-0000-2157-9689
+Data: 06/09/2026 — Versão suplementos 1.0 — Data final de busca: 20/05/2026
+
+CONTEÚDO (4 arquivos separados + 1 docx adicional)
+-------------------------------------------------
+01_Estrategias_Busca_H2_PRISMA2020_ApB_2007-2026.xlsx  (8,5 KB)  |  .docx (38 KB)
+   → Apêndice B completo. 9 fontes (PubMed 590, Scopus 612, Embase 384, WoS 298, CENTRAL 45, ClinicalTrials.gov 47, UMIN-CTR 34, Scholar 365 complementar, busca manual 28). Strings copiar-colar por base com NOT hydrogen peroxide/breath test, filtros, datas e n. Total PRISMA 2.403. Inclui notas de deduplicação Rayyan (443), exports .nbib/.ris/.csv e legenda Operador A/B.
+
+02_Planilha_Extracao_H2_82estudos_Template_2007-2026.xlsx (13 KB)
+   → Template para 82 estudos (12 RS/MA + 34 ECRs + 18 coortes/pilotos + 18 mecanísticos). 19 colunas: ID, Autor_Ano, Revista/DOI, Desenho, n_total, População, Via_H2, Concentração, Dose/Frequência, Duração, Desfechos primários/secundários, Resultados (IC95%+p), EA graves/leves, Nível evidência, Limitações, Financiamento/Conflitos, Notas. Linhas 4-6 preenchidas como exemplo (Hydro-COVID 675, LeBaron 2020 60, Li 2024 MA); linhas 7-85 vazias para preenchimento. Filtros + validação lista (Desenho, Via_H2) + aba Instruções.
+
+03_Matriz_RoB2_34ECRs_TabelaS1_rob2.xlsx (12 KB)
+   → Tabela S1 completa. 34 ECRs avaliados RoB2 (D1 Randomização, D2 Desvios, D3 Dados ausentes, D4 Mensuração, D5 Seleção) + Global + Justificativa 1 frase. Distribuição: 6 baixo (18%), 19 algumas (56%), 9 alto (26%); κ=0,81 (0,70-0,91). Recorte 10 ECRs no texto principal; 34 completos aqui. Segunda aba: AMSTAR-2 (12 RS/MA) e ROBINS-I (10 coortes). Formatação condicional verde/amarelo/vermelho e filtros.
+
+04_Perfil_GRADE_H2_ApE_Quadro2.xlsx (10 KB)
+   → Apêndice E expandido. 12 desfechos (segurança, colesterol, LDL, TG, BAP, d-ROMs, potência MMII, PSE, lactato, gordura hepática RM, COVID piora, QoL/fadiga) com: n/estudos, efeito DM/SMD (IC95%), efeito absoluto, I², julgamentos GRADE (risco viés, inconsistência, indiretividade, imprecisão, viés publicação), certeza (Alta/Moderada/Baixa/Muito baixa) e importância. Notas de rebaixamento e MCID/OIS em segunda aba (Limiares_e_notas). Base Guyatt 2008.
+
+DEPÓSITO E DATA AVAILABILITY
+----------------------------
+Estratégias, planilha, matrizes e perfil GRADE + exports .nbib/.ris e search_history/*.pdf serão depositados em Zenodo DOI 10.5281/zenodo.XXXXXXX (a ativar na submissão) e espelho OSF https://osf.io/XXXXX — conforme Declarações do manuscrito. Manuscrito principal: Hidrogenio_Molecular_Manuscrito_IMRaD.docx (1,65 MB, 11 tabelas, 2 figuras vetoriais).
+
+ATUALIZAÇÕES PENDENTES ANTES DA SUBMISSÃO
+-------------------------------------------
+- Ye et al. 2026: preprint PMC13202890 (26/03/2026) — substituir por DOI definitivo se publicado; verificado 30/05/2026.
+- Jeyaraman 2025: PMID 41608485 provisório — atualizar para publicação definitiva.
+- Rerodar buscas (rerun) na semana da submissão para capturar ahead-of-print.
+- Ativar DOI Zenodo/OSF e substituir XXXXX nos 4 arquivos e no manuscrito.
+
+CONTATO
+-------
+Edilson S. Silva — edilsonsilva@hotmail.com — Belém, PA, Brasil
+
+Fim do suplemento.
